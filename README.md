@@ -4,12 +4,11 @@
 
 ### Contact <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 - I'm a front-end engineer.
-- I’m currently learning source code of React.
 - Reach me at: <hiyangguo@gmail.com>
 
 [![](https://visitor-badge.glitch.me/badge?page_id=hiyangguo.visitor-badge)](https://hiyangguo.com/) [![](https://img.shields.io/badge/-juejin-blue)](https://juejin.cn/user/3896324936992605/posts) [![](https://img.shields.io/badge/-homepage-brightgreen)](https://hiyangguo.com/)
 
-### Technologies adn IDE
+### Technologies and IDE
 
 <code>![HTML5](https://img.icons8.com/color/30/html-5.png)</code>
 <code>![CSS3](https://img.icons8.com/color/30/css3.png)</code>
