@@ -3,8 +3,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyangguo&layout=compact&hide_border=true)](https://hiyangguo.com)
 
 ### Contact <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
-- I'm a front-end engineer.
-- Reach me at: <hiyangguo@gmail.com>
+- I'm a front-end engineer from China.
+- I’m currently working on React and TypeScript.
+- 📫 Reach me at: <hiyangguo@gmail.com>
 
 [![](https://visitor-badge.glitch.me/badge?page_id=hiyangguo.visitor-badge)](https://hiyangguo.com/) [![](https://img.shields.io/badge/-juejin-blue)](https://juejin.cn/user/3896324936992605/posts) [![](https://img.shields.io/badge/-homepage-brightgreen)](https://hiyangguo.com/)
 
