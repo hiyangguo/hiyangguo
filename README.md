@@ -1,9 +1,5 @@
 # Hi, I'm Godfery Yang
-
-<p>
-   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyangguo&layout=compact&hide_border=true"/>
-</p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyangguo&layout=compact&hide_border=true)
 [![Godfery's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyangguo&show_icons=true&hide_border=true)](https://hiyangguo.com)
 
 
